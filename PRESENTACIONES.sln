@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRESENTACIONES", "PRESENTACIONES\PRESENTACIONES.csproj", "{2C5F34B7-67D6-409B-8F9D-5635DF744A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5F34B7-67D6-409B-8F9D-5635DF744A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5F34B7-67D6-409B-8F9D-5635DF744A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7138C9FC-FBD1-4189-9190-B64E1A63F6D5}
+	EndGlobalSection
+EndGlobal
